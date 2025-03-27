@@ -1,0 +1,3 @@
+/home/isun/Desktop/APP/GameCharacter/built/CMakeFiles/GameCharacter.dir
+/home/isun/Desktop/APP/GameCharacter/built/CMakeFiles/edit_cache.dir
+/home/isun/Desktop/APP/GameCharacter/built/CMakeFiles/rebuild_cache.dir

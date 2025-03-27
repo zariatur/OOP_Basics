@@ -1,0 +1,3 @@
+/home/isun/Desktop/APP/CalendarEvent/build/CMakeFiles/CalendarEvent.dir
+/home/isun/Desktop/APP/CalendarEvent/build/CMakeFiles/edit_cache.dir
+/home/isun/Desktop/APP/CalendarEvent/build/CMakeFiles/rebuild_cache.dir
